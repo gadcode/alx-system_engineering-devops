@@ -1,3 +1,3 @@
-# 0x00 Shell Basics
+# 0x00-shell_basics
 
-As the name implies, this directory contains the basics of shell commands.
+------------------
