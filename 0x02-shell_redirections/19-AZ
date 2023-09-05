@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "We Are The Most capable Zebra Team!" | tr 'Ac' 'Ze'
