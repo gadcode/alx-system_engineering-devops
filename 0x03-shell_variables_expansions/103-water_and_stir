@@ -1,2 +1,0 @@
-#!/bin/bash
-echo $((bestschol(water#$WATER + stir#$STIR)))
